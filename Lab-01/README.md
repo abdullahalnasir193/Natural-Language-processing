@@ -61,7 +61,3 @@ pip install pandas nltk kagglehub
 2. Open the Jupyter Notebook.
 3. Run the cells in order.
 4. KaggleHub will download the dataset automatically.
-
-## Author
-
-**Abdullah Alnasir**
